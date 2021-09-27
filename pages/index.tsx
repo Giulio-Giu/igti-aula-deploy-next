@@ -73,8 +73,10 @@ export default function Home({
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi, I'm Lucas. I'm a software enginer and a teacher. You can contact
-          me on <a href="https://www.linkedin.com/in/lucasporto21/">Linkedin</a>
+          Hi, I'm Giulio. I'm a software developer. You can contact me on{' '}
+          <a href="https://www.linkedin.com/in/giulio-machado-0a150414b/">
+            Linkedin
+          </a>
           {'.'}
         </p>
         <p>
